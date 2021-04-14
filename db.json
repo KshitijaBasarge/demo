@@ -1,14 +1,24 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+  {
+    "rank": 1,
+    "companyname": "Cipla", 
+    "nse": "886.95",
+    "bse": "882.30",
+    "pricediff":"0.52%"
+  },
+  {
+    "rank": 2,
+    "companyname": "Sun Pharmaceutical Industries", 
+    "nse": "636.00",
+    "bse": "636.95",
+    "pricediff":"0.14%"
+  },
+  {
+    "rank": 3,
+    "companyname": "Titan Company", 
+    "nse": "1,594.60",
+    "bse": "1,591.75",
+    "pricediff":"0.17%"
+  },
+  
+]
